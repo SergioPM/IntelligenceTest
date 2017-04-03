@@ -1,0 +1,30 @@
+html {
+  font-family: SCP;
+  background-color: darkred;
+  color: white;
+}
+
+.bgContainer {
+  background-position: center;
+  border-color: black;
+  border-width: 4px;
+  background-color: darkred;
+}
+
+.user_input {
+  width: 50px;
+}
+
+a.button {
+    -moz-appearance: button;
+    -webkit-appearance: button;
+    appearance: button;
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    text-align: left;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+}
